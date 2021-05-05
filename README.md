@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/g1em27qde3f4r2yo?svg=true)](https://ci.appveyor.com/project/valentin-panov/ahj-popovers)
+[![Build status](https://ci.appveyor.com/api/projects/status/g1em27qde3f4r2yo?svg=true)](https://ci.appveyor.com/project/vapanov/ahj-popovers)
 
 WEB Version https://valentin-panov.github.io/ahj-popovers/
 
