@@ -163,6 +163,7 @@ h3 {
   width: 300px;
 
   font-size: medium;
+  text-align: left;
 
   border: 1px black solid;
   -webkit-border-radius: 75px;
