@@ -23,9 +23,9 @@ describe('name/price form', () => {
 
     browser = await puppeteer.launch({
       // this should be commented for CI?
-      headless: false, // show gui
-      slowMo: 250,
-      devtools: true, // show devTools
+      // headless: false, // show gui
+      // slowMo: 250,
+      // devtools: true, // show devTools
     });
 
     page = await browser.newPage();
